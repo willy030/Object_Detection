@@ -9,4 +9,5 @@
 # 5.產生weight檔
 ![Image](https://github.com/willy030/Object_Detection/blob/master/weights.png)
 # 6.測試
+https://www.youtube.com/watch?v=UniCqVKKfeo&feature=youtu.be
 
