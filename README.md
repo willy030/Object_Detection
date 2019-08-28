@@ -8,6 +8,8 @@
 ![Image](https://github.com/willy030/Object_Detection/blob/master/%E8%A8%93%E7%B7%B4%E9%81%8E%E7%A8%8B.png)
 # 5.產生weight檔
 ![Image](https://github.com/willy030/Object_Detection/blob/master/weights.png)
+# weight下載連結
+https://mega.nz/#!DdRgESDJ
 # 6.測試
 https://www.youtube.com/watch?v=UniCqVKKfeo&feature=youtu.be
 
