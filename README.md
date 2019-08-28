@@ -9,7 +9,7 @@
 # 5.產生weight檔
 ![Image](https://github.com/willy030/Object_Detection/blob/master/weights.png)
 # weight下載連結
-https://mega.nz/#!DdRgESDJ
+https://mega.nz/#!DdRgESDJ!_Mi7B86BjN3mXclA8pwZiD5YR3JBqp_YKUyE72y2EFQ
 # 6.測試
 https://www.youtube.com/watch?v=UniCqVKKfeo&feature=youtu.be
 
