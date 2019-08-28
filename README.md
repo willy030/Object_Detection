@@ -1,6 +1,6 @@
 # Object_Detection
 # 透過yolov3進行訓練並測試
-# 1.透過讀取xml與jpg檔產生yolov3所需要之txt
+# 1.透過讀取xml與jpg檔轉換成yolov3所需要之txt
 # 2.訓練與驗證比例8:2
 # 3.產生cfg資料夾(obj.data,obj.names,train.txt,test.txt)
 ![Image](https://github.com/willy030/Object_Detection/blob/master/cfg.png)
